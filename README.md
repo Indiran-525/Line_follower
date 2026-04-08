@@ -150,28 +150,7 @@ Install from Arduino Library Manager:
 
 ---
 
-## Upload Settings (Recommended)
-```
-Board: ESP32 Dev Module
-Upload Speed: 921600
-Flash Frequency: 80MHz
-Partition: Default
-```
 
----
-
-## Quick Start
-1. Wire robot
-2. Upload code
-3. Connect to `LineBot`
-4. Send `calibrate`
-5. Tune PID if needed
-6. Run
-
----
-
-## License
-MIT
 
 ## NOTED POINTS FROM LFR
 
