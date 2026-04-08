@@ -19,8 +19,8 @@ A fast and configurable **ESP32-based line follower** using **QTR-8 analog senso
 - ESP32
 - QTR-8A Analog Sensor Array
 - TB6612FNG Motor Driver
-- 2x DC Motors
-- LiPo Battery
+- 2x n20 Motors
+- LiPo Battery (7.4V)
 
 ---
 
