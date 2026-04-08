@@ -6,7 +6,7 @@ A fast and configurable **ESP32-based line follower** using **QTR-8 analog senso
 
 ## Features
 - PID based line following
-- BLE tuning (no re-upload required)
+- BLE tuning using Bluetooth Serial Terminal app (no re-upload required)
 - QTR-8 analog sensor array
 - All-black detection handling
 - Auto calibration mode
